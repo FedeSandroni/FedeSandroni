@@ -2,9 +2,9 @@
 <div align="center">
   <h1>Hola, soy Fede Sandroni 👋</h1>
   <p>
-    <strong>Desarrollador Full-Stack</strong> especializado en la creación de aplicaciones web modernas, robustas y escalables.
+    <strong>Full Stack Developer</strong> proficient in creating modern, robust, and scalable web applications.
   </p>
-  <h2>🚀 Mi Stack Principal</h2>  
+  <h2>🚀 Key Skills</h2>  
   <table width="100%">
     <tr valign="top">
       <td width="50%" align="center">
@@ -21,13 +21,13 @@
           <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" title=".NET Core" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="50" height="50"/></a>
         </div>
         <p>
-          <strong>Creación de APIs REST robustas y seguras</strong>
+          <strong>Building robust and secure REST APIs. with JWT</strong>
         </p>
       </td>
     </tr>
     <tr valign="top">
       <td colspan="2" align="center">
-        <h3 style="margin-bottom: 10px;">Bases de Datos</h3>
+        <h3 style="margin-bottom: 10px;">Databases</h3>
         <p align="center">
                     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="SQL Server" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="60" height="60"/></a>
           <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/></a>
