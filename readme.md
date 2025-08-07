@@ -1,8 +1,8 @@
-<h1>Hola, soy Fede Sandroni 👋</h1>
+<div align="center">
+  <h1>Hola, soy Fede Sandroni 👋</h1>
   <p>
     <strong>Desarrollador Full-Stack</strong> especializado en la creación de aplicaciones web modernas, robustas y escalables.
   </p>
-<div align="center">
   <h2>🚀 Mi Stack Principal</h2>  
   <table width="100%">
     <tr valign="top">
