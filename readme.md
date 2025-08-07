@@ -30,8 +30,8 @@
       <td colspan="2" align="center">
         <h3 style="margin-bottom: 10px;">Databases</h3>
         <p align="center">
-          <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="SQL Server" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="60" height="60"/></a>
-          <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL" style="margin: 0 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/></a>
+          <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="SQL Server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server" width="60" height="60"/></a>
+          <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/></a>
         </p>
       </td>
     </tr>
