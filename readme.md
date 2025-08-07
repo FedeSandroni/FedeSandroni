@@ -1,11 +1,10 @@
 <div align="center">
-  <h1>Hola, soy Fede Sandroni 👋</h1>
+    <img src="banner.png" alt="Next.js" width="100%" style="background-color: black;"/>
+  <h1>Hey, I'm Fede Sandroni 👋</h1>
   <p>
     <strong>Full Stack Developer</strong> proficient in creating modern, robust, and scalable web applications.
-  </p>
-  
-  <h2>🚀 Main Skills</h2>
-  
+  </p>  
+  <h2>🚀 Main Skills</h2>  
   <table width="100%">
     <tr valign="top">
       <td width="50%" align="center">
