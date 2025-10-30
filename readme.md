@@ -1,5 +1,4 @@
 <div align="center" width="300">
-   <img align="center" width="200" src="https://github.com/FedeSandroni/FedeSandroni/blob/main/my_photo.jpg" />
    <h3 align="center">Hey 👋, I'm Federico Sandroni 👨🏻‍💻</h3>
   <p>
     <strong>Full Stack Developer</strong> specialized in building modern, scalable, and user-centric web applications.<br/>
