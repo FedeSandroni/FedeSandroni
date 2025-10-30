@@ -12,7 +12,6 @@
 ### 🧠 About Me
 - 🎯 Focused on <strong>Next.js, .NET Core, SQL, and TypeScript</strong>.  
 - 💡 Experienced in designing and developing **REST APIs** with secure JWT authentication.  
-- 🌱 Currently improving my skills in **React state management**, **Node.js**, and **Express.js** through real projects.  
 - ⚙️ Strong believer in maintainable code, reusable UI components, and data consistency.
 
 ---
