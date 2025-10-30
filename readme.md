@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="banner.png" alt="Banner" width="100%"/>
-  <h1>Hey, I'm Federico Sandroni 👋</h1>
+<div align="center" width="300">
+   <h3 align="center">Hey 👋, I'm Federico Sandroni 👨🏻‍💻</h3>
   <p>
     <strong>Full Stack Developer</strong> specialized in building modern, scalable, and user-centric web applications.<br/>
     Passionate about clean architecture, performance, and great developer experience.
