@@ -44,6 +44,6 @@
 
 ### 📫 Contact
 <p>
-  <a href="mailto:federico.sandronii@gmail.com" target="_blank">federico.sandronii@gmail.com</a><br/>
-  [LinkedIn](https://www.linkedin.com/in/fedesandroni/)
+  <a href="mailto:federico.sandronii@gmail.com" target="_blank">Gmail</a><br/>
+  <a href="https://www.linkedin.com/in/fedesandroni/">LinkedIn</a>
 </p>
